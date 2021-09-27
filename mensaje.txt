@@ -1,0 +1,4 @@
+hola guanaco, vamos a tomar un fernet.
+
+este archivo se llama mensaje.text y está dentro de mi carpeta probando-git.
+
