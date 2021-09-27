@@ -1,4 +1,5 @@
 hola guanaco, vamos a tomar un fernet.
 
-este archivo se llama mensaje.text y est· dentro de mi carpeta probando-git.
+este archivo se llama mensaje.text y est√° dentro de mi carpeta probando-git.
 
+mejor tomemos un vino
